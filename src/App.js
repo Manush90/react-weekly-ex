@@ -12,6 +12,7 @@ const App = () => {
         className="img-fluid mx-auto d-block"
         style={{ maxWidth: "100px" }}
       />
+
       <h1 className="text-center">Articoli Dr.Wine</h1>
       <div className="row">
         <div className="col-md-12">
